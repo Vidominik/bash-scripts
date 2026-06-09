@@ -1,5 +1,1 @@
-# linux-scripts
-# linux-scripts
-# bash-scripts
-# bash-scripts
-# bash-scripts
+linux bash scripts that i use 
