@@ -1,0 +1,6 @@
+#!/bin/bash
+# to finally write < on iso layout keyboards
+sleep 0.05
+xdotool keyup y
+xdotool keyup Alt_L
+xdotool key --clearmodifiers less
